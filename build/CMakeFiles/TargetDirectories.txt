@@ -1,0 +1,3 @@
+/home/ravshan/Seafile/research/codes/plusnorms/build/CMakeFiles/NKProg.dir
+/home/ravshan/Seafile/research/codes/plusnorms/build/CMakeFiles/edit_cache.dir
+/home/ravshan/Seafile/research/codes/plusnorms/build/CMakeFiles/rebuild_cache.dir

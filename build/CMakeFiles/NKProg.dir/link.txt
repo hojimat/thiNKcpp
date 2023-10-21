@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g CMakeFiles/NKProg.dir/src/main.cpp.o -o NKProg 
