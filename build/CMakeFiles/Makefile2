@@ -81,12 +81,12 @@ clean: CMakeFiles/NKProg.dir/clean
 CMakeFiles/NKProg.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/NKProg.dir/build.make CMakeFiles/NKProg.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/NKProg.dir/build.make CMakeFiles/NKProg.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/ravshan/Seafile/research/codes/plusnorms/build/CMakeFiles --progress-num=1,2 "Built target NKProg"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/ravshan/Seafile/research/codes/plusnorms/build/CMakeFiles --progress-num=1,2,3 "Built target NKProg"
 .PHONY : CMakeFiles/NKProg.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/NKProg.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ravshan/Seafile/research/codes/plusnorms/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ravshan/Seafile/research/codes/plusnorms/build/CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/NKProg.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/ravshan/Seafile/research/codes/plusnorms/build/CMakeFiles 0
 .PHONY : CMakeFiles/NKProg.dir/rule

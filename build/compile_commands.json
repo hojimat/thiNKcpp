@@ -4,5 +4,11 @@
   "command": "/usr/bin/clang++  -I/home/ravshan/Seafile/research/codes/plusnorms/include -g -o CMakeFiles/NKProg.dir/src/main.cpp.o -c /home/ravshan/Seafile/research/codes/plusnorms/src/main.cpp",
   "file": "/home/ravshan/Seafile/research/codes/plusnorms/src/main.cpp",
   "output": "CMakeFiles/NKProg.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/ravshan/Seafile/research/codes/plusnorms/build",
+  "command": "/usr/bin/clang++  -I/home/ravshan/Seafile/research/codes/plusnorms/include -g -o CMakeFiles/NKProg.dir/src/Nature.cpp.o -c /home/ravshan/Seafile/research/codes/plusnorms/src/Nature.cpp",
+  "file": "/home/ravshan/Seafile/research/codes/plusnorms/src/Nature.cpp",
+  "output": "CMakeFiles/NKProg.dir/src/Nature.cpp.o"
 }
 ]

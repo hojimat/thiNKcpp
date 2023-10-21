@@ -157,4 +157,5 @@ CMakeFiles/NKProg.dir/src/main.cpp.o: \
   /usr/bin/../lib64/gcc/x86_64-pc-linux-gnu/13.2.1/../../../../include/c++/13.2.1/cstdint \
   /usr/lib/clang/16/include/stdint.h /usr/include/stdint.h \
   /usr/include/bits/stdint-uintn.h \
+  /home/ravshan/Seafile/research/codes/plusnorms/include/Setup.hpp \
   /home/ravshan/Seafile/research/codes/plusnorms/include/Nature.hpp

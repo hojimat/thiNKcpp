@@ -1,1 +1,1 @@
-/usr/bin/clang++ -g CMakeFiles/NKProg.dir/src/main.cpp.o -o NKProg 
+/usr/bin/clang++ -g CMakeFiles/NKProg.dir/src/main.cpp.o CMakeFiles/NKProg.dir/src/Nature.cpp.o -o NKProg 

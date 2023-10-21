@@ -2,7 +2,9 @@ cmake_minimum_required(VERSION 3.27)
 project(nknorms VERSION 1.0 LANGUAGES CXX)
 
 add_executable(NKProg
-    src/main.cpp)
+    src/main.cpp
+    src/Nature.cpp
+    )
 
 target_include_directories(NKProg
     PUBLIC

@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/NKProg.dir/src/Nature.cpp.o"
+  "CMakeFiles/NKProg.dir/src/Nature.cpp.o.d"
   "CMakeFiles/NKProg.dir/src/main.cpp.o"
   "CMakeFiles/NKProg.dir/src/main.cpp.o.d"
   "NKProg"

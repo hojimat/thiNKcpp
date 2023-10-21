@@ -129,6 +129,30 @@ NKProg/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/NKProg.dir/build.make CMakeFiles/NKProg.dir/build
 .PHONY : NKProg/fast
 
+src/Nature.o: src/Nature.cpp.o
+.PHONY : src/Nature.o
+
+# target to build an object file
+src/Nature.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NKProg.dir/build.make CMakeFiles/NKProg.dir/src/Nature.cpp.o
+.PHONY : src/Nature.cpp.o
+
+src/Nature.i: src/Nature.cpp.i
+.PHONY : src/Nature.i
+
+# target to preprocess a source file
+src/Nature.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NKProg.dir/build.make CMakeFiles/NKProg.dir/src/Nature.cpp.i
+.PHONY : src/Nature.cpp.i
+
+src/Nature.s: src/Nature.cpp.s
+.PHONY : src/Nature.s
+
+# target to generate assembly for a file
+src/Nature.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/NKProg.dir/build.make CMakeFiles/NKProg.dir/src/Nature.cpp.s
+.PHONY : src/Nature.cpp.s
+
 src/main.o: src/main.cpp.o
 .PHONY : src/main.o
 
@@ -162,6 +186,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... NKProg"
+	@echo "... src/Nature.o"
+	@echo "... src/Nature.i"
+	@echo "... src/Nature.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
